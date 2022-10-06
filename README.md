@@ -7,4 +7,5 @@ interesting in programmer career and currently i'm studying:
 - Java
 - JavaScript
 - Clound
+
 I don't work with IT yet, but step by step getting there :}
