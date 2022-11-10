@@ -1,11 +1,11 @@
 *Good night, my is **Luís Vitor***
 
 it'll be a pleasure to introduce myself
-I'm new to the IT Business, i'm 20y and live and was born in Brazil!
-interesting in programmer career and currently i'm studying:
+I'm new to the IT Business, interting in Front-end and Back-end career
+currently studying:
 - Python
-- Java
 - JavaScript
-- Clound
+- Css advanced  
+- Java
 
 I don't work with IT yet, but step by step getting there :}
